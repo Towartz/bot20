@@ -1,14 +1,14 @@
 {
 "autoread": false,
-"autoplaymusic": true,
+"autoplaymusic": false,
 "autocomposing": false,
-"autorecording": true,
-"NamaBot":"Kurz Bot Assistan", 
-"NomorOwner":"6281220670449", 
-"NomorOwner2":"+62 812-2067-0449", 
-"NamaOwner":"KurrGamtenk", 
-"Dana":"081220670449", 
-"Pulsa":"081220670449", 
-"Gopay":"082298891772", 
+"autorecording": false,
+"NamaBot":"Lexmoon", 
+"NomorOwner":"6283102176419", 
+"NomorOwner2":"+62 831-0217-6419", 
+"NamaOwner":"Towartz", 
+"Dana":"083102176419", 
+"Pulsa":"083102176419", 
+"Gopay":"083102176419", 
 "HunterApi":"Ikyy69"
 }
